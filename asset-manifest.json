@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/worckyky/card-game/static/css/main.b9224027.chunk.css",
-    "main.js": "/worckyky/card-game/static/js/main.60a936dc.chunk.js",
-    "main.js.map": "/worckyky/card-game/static/js/main.60a936dc.chunk.js.map",
-    "runtime-main.js": "/worckyky/card-game/static/js/runtime-main.51bdb364.js",
-    "runtime-main.js.map": "/worckyky/card-game/static/js/runtime-main.51bdb364.js.map",
-    "static/js/2.f1440fd7.chunk.js": "/worckyky/card-game/static/js/2.f1440fd7.chunk.js",
-    "static/js/2.f1440fd7.chunk.js.map": "/worckyky/card-game/static/js/2.f1440fd7.chunk.js.map",
-    "static/js/3.48aed716.chunk.js": "/worckyky/card-game/static/js/3.48aed716.chunk.js",
-    "static/js/3.48aed716.chunk.js.map": "/worckyky/card-game/static/js/3.48aed716.chunk.js.map",
-    "index.html": "/worckyky/card-game/index.html",
-    "static/css/main.b9224027.chunk.css.map": "/worckyky/card-game/static/css/main.b9224027.chunk.css.map",
-    "static/js/2.f1440fd7.chunk.js.LICENSE.txt": "/worckyky/card-game/static/js/2.f1440fd7.chunk.js.LICENSE.txt"
+    "main.css": "/card-game/static/css/main.b9224027.chunk.css",
+    "main.js": "/card-game/static/js/main.60a936dc.chunk.js",
+    "main.js.map": "/card-game/static/js/main.60a936dc.chunk.js.map",
+    "runtime-main.js": "/card-game/static/js/runtime-main.2a708842.js",
+    "runtime-main.js.map": "/card-game/static/js/runtime-main.2a708842.js.map",
+    "static/js/2.f1440fd7.chunk.js": "/card-game/static/js/2.f1440fd7.chunk.js",
+    "static/js/2.f1440fd7.chunk.js.map": "/card-game/static/js/2.f1440fd7.chunk.js.map",
+    "static/js/3.48aed716.chunk.js": "/card-game/static/js/3.48aed716.chunk.js",
+    "static/js/3.48aed716.chunk.js.map": "/card-game/static/js/3.48aed716.chunk.js.map",
+    "index.html": "/card-game/index.html",
+    "static/css/main.b9224027.chunk.css.map": "/card-game/static/css/main.b9224027.chunk.css.map",
+    "static/js/2.f1440fd7.chunk.js.LICENSE.txt": "/card-game/static/js/2.f1440fd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51bdb364.js",
+    "static/js/runtime-main.2a708842.js",
     "static/js/2.f1440fd7.chunk.js",
     "static/css/main.b9224027.chunk.css",
     "static/js/main.60a936dc.chunk.js"
