@@ -1,0 +1,15 @@
+.link__default {
+    text-decoration: none;
+    color: black;
+}
+.links__container {
+    padding: 32px;
+}
+
+.link__active {
+    color: red;
+}
+
+.links__container a {
+    margin-right: 16px;
+}
